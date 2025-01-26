@@ -1,4 +1,3 @@
 - 👋 Hi, I’m @SafewayDoge
-- 👀 I’m interested in, windows debloat scripts (.ps1) no .EXE
-- 📫 How to reach me: @safewaydoge on discord
+- 👀 I'm making a PowerShell Debloat script for windows
 - ⚡ Fun fact: I do own a PowerEdge R530
